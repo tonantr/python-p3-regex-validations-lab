@@ -13,7 +13,7 @@
 inside of a string.
 - **Pattern**: a description of sequences of characters that share certain
 traits with one another. Sequences do not need to be the same length or share
-any common characters to pattern match. Also called a **filter**.
+any common characters to pattern match. Also called a **filter**...
 
 ***
 
